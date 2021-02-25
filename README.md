@@ -13,3 +13,7 @@ scores.csv contains a score between 1 and 5 for each criteria for each city.
 The paths to the csvs need to be changed in the python script to run.
 
 (Python code to create the scores will come next.)
+
+demo.mp4 is a video of the streamlit app.
+
+![Exemple](https://github.com/BaptisteRomezin/PetitCoindeParadis/blob/main/demo.png?raw=true)
